@@ -3,13 +3,13 @@ site_name: "PayTechUz Guides"
 site_description: 🟢 Guides, Examples, Tutorials
 site_author: Hoosnick
 site_url: https://docs.pay-tech.uz/
+
 docs_dir: docs/src
-site_dir: paytech
+exclude_docs: overrides/
 
 # Repository
 repo_name: PayTechUz/paytech-guides
 repo_url: https://github.com/PayTechUz/paytech-guides
-edit_uri: ""
 
 # Copyright
 copyright: Copyright &copy; 2023 PayTechUz
@@ -17,26 +17,30 @@ copyright: Copyright &copy; 2023 PayTechUz
 # Configuration
 theme:
   name: material
-  custom_dir: docs/src/overrides
-  language: uz
+  language: en
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
+      primary: deep purple
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
+      primary: deep purple
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - toc.follow
+    - toc.integrate
   font:
     text: Ubuntu
     code: Roboto Mono
-  # icon:
-  #   logo: material/cash-multiple
   logo: assets/logo.png
 
 # Extras
@@ -44,7 +48,7 @@ extra:
   social:
     - icon: fontawesome/brands/telegram
       link: https://t.me/+7Gn-JZ99TfgwZDNi
-      name: "Biz telegramda"
+      name: Telegram
     - icon: fontawesome/brands/github-alt
       link: https://github.com/PayTechUz/
       name: GitHub
@@ -52,13 +56,21 @@ extra:
 # Extensions
 markdown_extensions:
   - admonition
-  - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.details
   - meta
   - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
   - Home: index.md
@@ -70,24 +82,29 @@ nav:
       - payme-pkg/sandbox.md
   - Support: support.md
 
+# Plugins
 plugins:
   - search
   - i18n:
-      default_language: uz
+      default_language: en
       default_language_only: false
       docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
 
       languages:
         - locale: uz
-          default: true
           build: true
           name: "<img style='height: 10px; border: 0px;' alt='uz' src='https://flagicons.lipis.dev/flags/4x3/uz.svg' title='uzbek' /> O'zbekcha"
+          site_name: "PayTechUz Yo'riqnomalar"
           nav_translations:
             Home: Kirish
             Payme Package: Payme Package
             Support: Texnik yordam
 
         - locale: en
+          default: true
           build: true
           name: "<img style='height: 10px; border: 0px;'' alt='en' src='https://flagicons.lipis.dev/flags/4x3/us.svg' title='english' /> English"
           site_name: "PayTechUz Guides"
