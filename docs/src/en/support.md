@@ -1,6 +1,6 @@
 ---
-title: Technical support
-description: Technical support
+title: Texnik yordam
+description: Texnik yordam
 ---
 
-# Technical support
+# Texnik yordam

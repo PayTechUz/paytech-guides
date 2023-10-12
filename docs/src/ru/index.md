@@ -1,5 +1,5 @@
 ---
-title: Введение
+title: Kirish
 ---
 
-# **Добро пожаловать!**
+# **Xush kelibsiz!**
