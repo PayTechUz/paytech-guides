@@ -1,6 +1,6 @@
 ---
-title: Merchant API metodlari
-description: Merchant API metodlari
+title: Merchant API methods
+description: Merchant API methods
 ---
 
-# Merchant API metodlari
+# Merchant API methods

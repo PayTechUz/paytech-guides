@@ -1,6 +1,6 @@
 ---
-title: Subscribe API metodlari
-description: Subscribe API metodlari
+title: Методы Subscribe API
+description: Методы Subscribe API
 ---
 
-# Subscribe API metodlari
+# Методы Subscribe API

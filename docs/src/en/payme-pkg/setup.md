@@ -1,6 +1,6 @@
 ---
-title: Sozlash (Setup)
-description: Sozlash (Setup)
+title: Setup
+description: Setup
 ---
 
-# Sozlash (Setup)
+# Setup
