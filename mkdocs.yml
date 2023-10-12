@@ -1,5 +1,5 @@
 # Project information
-site_name: "PayTechUz Yo'riqnomalar"
+site_name: "PayTechUz Guides"
 site_description: 🟢 Guides, Examples, Tutorials
 site_author: Hoosnick
 site_url: https://docs.pay-tech.uz/
@@ -61,12 +61,14 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - "home": index.md
-  - "interaction_setup": setup.md
-  - "merchant_api": merchant-api.md
-  - "subscribe_api": subscribe-api.md
-  - "sandbox": sandbox.md
-  - "support": support.md
+  - Home: index.md
+  - Payme Package:
+      - payme-pkg/index.md
+      - payme-pkg/setup.md
+      - payme-pkg/merchant-api.md
+      - payme-pkg/subscribe-api.md
+      - payme-pkg/sandbox.md
+  - Support: support.md
 
 plugins:
   - search
@@ -76,37 +78,29 @@ plugins:
       docs_structure: folder
 
       languages:
-        en:
-          name: "<img style='height: 10px; border: 0px;'' alt='en' src='https://flagicons.lipis.dev/flags/4x3/us.svg' title='english' /> English"
+        - locale: uz
+          default: true
           build: true
-          site_name: "Documentation for payme-pkg"
-        uz:
           name: "<img style='height: 10px; border: 0px;' alt='uz' src='https://flagicons.lipis.dev/flags/4x3/uz.svg' title='uzbek' /> O'zbekcha"
-          build: true
-        ru:
-          name: "<img style='height: 10px; border: 0px;'' alt='ru' src='https://flagicons.lipis.dev/flags/4x3/ru.svg' title='russian' /> Русский"
-          build: true
-          site_name: "Документация для payme-pkg"
+          nav_translations:
+            Home: Kirish
+            Payme Package: Payme Package
+            Support: Texnik yordam
 
-      nav_translations:
-        en:
-          "home": "Introduction"
-          "interaction_setup": "Interaction setup"
-          "merchant_api": "Merchant API"
-          "subscribe_api": "Subscribe API"
-          "sandbox": "Sandbox (Testing)"
-          "support": "Technical support"
-        ru:
-          "home": "Введение"
-          "interaction_setup": "Настройка взаимодействия"
-          "merchant_api": "Merchant API"
-          "subscribe_api": "Subscribe API"
-          "sandbox": "Песочница (Тестирование)"
-          "support": "Техническая поддержка"
-        uz:
-          "home": "Kirish"
-          "interaction_setup": "Sozlash (Setup)"
-          "merchant_api": "Merchant API"
-          "subscribe_api": "Subscribe API"
-          "sandbox": "Qumdon (Sandbox)"
-          "support": "Texnik yordam"
+        - locale: en
+          build: true
+          name: "<img style='height: 10px; border: 0px;'' alt='en' src='https://flagicons.lipis.dev/flags/4x3/us.svg' title='english' /> English"
+          site_name: "PayTechUz Guides"
+          nav_translations:
+            Home: Introduction
+            Payme Package: Payme Package
+            Support: Technical support
+
+        - locale: ru
+          build: true
+          name: "<img style='height: 10px; border: 0px;'' alt='ru' src='https://flagicons.lipis.dev/flags/4x3/ru.svg' title='russian' /> Русский"
+          site_name: "PayTechUz Гайды"
+          nav_translations:
+            Home: Введение
+            Payme Package: Payme Package
+            Support: Техническая поддержка
