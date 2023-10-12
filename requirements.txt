@@ -1,2 +1,2 @@
-mkdocs-material==9.1.21
+mkdocs-material==9.4.5
 mkdocs-static-i18n==1.1.0
