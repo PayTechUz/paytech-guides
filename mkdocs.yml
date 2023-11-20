@@ -79,6 +79,7 @@ nav:
       - payme-pkg/setup.md
       - payme-pkg/merchant-api.md
       - payme-pkg/subscribe-api.md
+      - payme-pkg/initializing-payments.md
       - payme-pkg/sandbox.md
   - Support: support.md
 

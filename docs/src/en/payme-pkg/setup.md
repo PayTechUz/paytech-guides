@@ -4,7 +4,6 @@ description: Setup
 ---
 
 # Installation
-
 Windows
 ```shell
 pip install payme-pkg
@@ -14,10 +13,8 @@ Unix-based OS
 ```shell
 pip3 install payme-pkg
 ```
-
-
+<br/>
 # Setup (django)
-
 1. Add `'payme'` to your installed apps
 ```python
 INSTALLED_APPS = [
