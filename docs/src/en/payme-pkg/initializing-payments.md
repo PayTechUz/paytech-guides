@@ -5,7 +5,7 @@ description: Initializing payments
 
 # [Generate pay link](https://github.com/PayTechUz/payme-pkg/blob/master/lib/payme/methods/generate_link.py){:target="_blank"}
 
-- Example
+> Example
 ```python
 from pprint import pprint
 
@@ -19,7 +19,7 @@ pay_link = GeneratePayLink(
 
 pprint(pay_link)
 ```
-- Output
+> Output
 ```shell
 https://checkout.paycom.uz/bT01ZTczMGU4ZTBiODUyYTQxN2FhNDljZWI7YWMub3JkZXItaWQ9OTk5O2E9OTk5OTtjPXlvdXItY2FsbGJhY2stdXJs
 ```
@@ -34,7 +34,8 @@ https://checkout.paycom.uz/bT01ZTczMGU4ZTBiODUyYTQxN2FhNDljZWI7YWMub3JkZXItaWQ9O
 
 ### Methods
 - generate_link() -> to generate payment link.
-> Does not take any arguments
+> **Does not take any arguments**
+
 - to_tiyin() -> convert from sum to tiyin.
 
 | Argument | Type    | Description                  |

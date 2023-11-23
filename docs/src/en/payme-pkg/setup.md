@@ -14,6 +14,7 @@ Unix-based OS
 pip3 install payme-pkg
 ```
 <br/>
+
 # Setup (django)
 1. Add `'payme'` to your installed apps
 ```python
