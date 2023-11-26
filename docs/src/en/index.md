@@ -7,6 +7,9 @@ hide:
 
 # **PayTechUz guides!**
 
+!!! info "Support"
+    If you think our packages are helpful, support us with coffee 😉: [https://www.buymeacoffee.com/paytechuz](https://www.buymeacoffee.com/paytechuz){:target="_blank"}
+
 
 Welcome to our guides. This documentation dedicated to providing you with a collection of comprehensive documentation and guides related to the financial technology solutions and projects developed by our [organization](https://github.com/PayTechUz){:target="_blank"}. We are excited to have you on board and explore the possibilities that our payment integration solutions bring to your projects.
 
