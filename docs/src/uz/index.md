@@ -7,6 +7,9 @@ hide:
 
 # **PayTechUz yo'riqnomalari!**
 
+!!! info "Qo'llab-quvvatlash"
+    Agar paketlarimizni foydali deb hisoblasangiz, bizni qahva bilan qo'llab-quvvatlang 😉: [https://www.buymeacoffee.com/paytechuz](https://www.buymeacoffee.com/paytechuz){:target="_blank"}
+
 
 Yo'riqnomalarga xush kelibsiz. Ushbu hujjat sizga [jamoamiz](https://github.com/PayTechUz){:target="_blank"} tomonidan ishlab chiqilgan moliyaviy texnologiya yechimlari va loyihalariga oid keng qamrovli hujjatlar va qo'llanmalar to'plamini taqdim etishga bag'ishlangan. Sizni qabul qilishdan va Bizning to'lov integratsiyasi yechimlarimiz loyihalaringizga olib keladigan imkoniyatlarni o'rganayotganimizdan xursandmiz.
 
