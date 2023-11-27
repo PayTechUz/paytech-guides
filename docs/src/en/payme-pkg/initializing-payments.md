@@ -29,7 +29,7 @@ https://checkout.paycom.uz/bT01ZTczMGU4ZTBiODUyYTQxN2FhNDljZWI7YWMub3JkZXItaWQ9O
 | Argument     | Type    | Description                                                                                                                      |
 |--------------|---------|----------------------------------------------------------------------------------------------------------------------------------|
 | order_id     | str     | _Required_. The order_id for paying                                                                                              |
-| amount       | Decimal | _Required_. The amount belong to the order                                                                                       |
+| amount       | Decimal | _Required_. The amount belong to the order. **Indicated in tiyins**                                                              |
 | callback_url | str     | _Optional_. The merchant api callback url to redirect after payment. By default, it takes PAYME_CALL_BACK_URL from your settings |
 
 ### Methods
