@@ -29,7 +29,7 @@ https://checkout.paycom.uz/bT01ZTczMGU4ZTBiODUyYTQxN2FhNDljZWI7YWMub3JkZXItaWQ9O
 | Argument     | Turi    | Izoh                                                                                                                                           |
 |--------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | order_id     | str     | _Majburiy_. To'lanadigan buyurtmaning ID'si                                                                                                    |
-| amount       | Decimal | _Majburiy_. Buyurtmaning miqdori                                                                                                               |
+| amount       | Decimal | _Majburiy_. Buyurtmaning miqdori. **Tiyinlarda ko'rsatilgan**                                                                                  |
 | callback_url | str     | _Ixtiyoriy_. Merchant API uchun to'lovdan keyingi yo'naltiriladigan link. Birlamchi holatda loyiha sozlamalaridan PAYME_CALL_BACK_URL ni oladi |
 
 ### Metodlari
