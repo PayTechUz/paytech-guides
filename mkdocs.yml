@@ -52,6 +52,9 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/PayTechUz/
       name: GitHub
+  analytics:
+    provider: google
+    property: G-9BRKYLP6BB
 
 # Extensions
 markdown_extensions:
