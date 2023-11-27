@@ -3,16 +3,6 @@ title: Subscribe API methods
 description: Subscribe API methods
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9BRKYLP6BB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9BRKYLP6BB');
-</script>
-
 # Subscribe API methods
 
 ## [PaymeSubscribeCards](https://github.com/PayTechUz/payme-pkg/blob/master/lib/payme/cards/subscribe_cards.py){:target="_blank"}
