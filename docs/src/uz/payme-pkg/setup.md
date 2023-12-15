@@ -15,6 +15,13 @@ pip3 install payme-pkg
 ```
 <br/>
 
+# Test hisob-kitob ma'lumotlari
+
+```
+Karta raqami: 8600 4954 7331 6478 Amal qilish muddati: 03/99 SMS Kod: 666666
+Karta raqami: 8600 0691 9540 6311 Amal qilish muddati: 03/99 SMS Kod: 666666
+```
+
 # Sozlash (django)
 1. Loyihangiz sozlamarining INSTALLED_APPS qismiga `'payme'` ni qo'shing
 ```python
