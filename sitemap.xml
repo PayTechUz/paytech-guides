@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.pay-tech.uz/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/support/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/support/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/support/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/support/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/payme-pkg/initializing-payments/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/initializing-payments/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/initializing-payments/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/initializing-payments/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/payme-pkg/merchant-api/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/merchant-api/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/merchant-api/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/merchant-api/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/payme-pkg/sandbox/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/sandbox/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/sandbox/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/sandbox/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/payme-pkg/setup/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/setup/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/setup/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/setup/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/payme-pkg/subscribe-api/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/subscribe-api/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/subscribe-api/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/subscribe-api/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/uz/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/uz/support/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/support/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/support/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/uz/payme-pkg/initializing-payments/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/initializing-payments/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/initializing-payments/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/initializing-payments/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/uz/payme-pkg/merchant-api/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/merchant-api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/merchant-api/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/merchant-api/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/uz/payme-pkg/sandbox/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/sandbox/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/sandbox/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/sandbox/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/uz/payme-pkg/setup/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/setup/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/setup/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/uz/payme-pkg/subscribe-api/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/subscribe-api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/subscribe-api/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/subscribe-api/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/ru/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/ru/support/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/support/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/support/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/ru/payme-pkg/initializing-payments/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/initializing-payments/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/initializing-payments/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/initializing-payments/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/ru/payme-pkg/merchant-api/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/merchant-api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/merchant-api/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/merchant-api/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/ru/payme-pkg/sandbox/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/sandbox/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/sandbox/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/sandbox/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/ru/payme-pkg/setup/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/setup/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/setup/"/>
+    </url>
+    <url>
+        <loc>https://docs.pay-tech.uz/ru/payme-pkg/subscribe-api/</loc>
+        <lastmod>2024-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.pay-tech.uz/ru/payme-pkg/subscribe-api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.pay-tech.uz/payme-pkg/subscribe-api/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://docs.pay-tech.uz/uz/payme-pkg/subscribe-api/"/>
+    </url>
+</urlset>
